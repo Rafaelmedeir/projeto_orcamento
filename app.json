@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "projeto-agora-vai",
+    "slug": "projeto-agora-vai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.rafaelmedeir.projetoagoravai"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9cd1289c-46b8-4409-8da1-5daae458b211"
+      }
+    }
+  }
+}
