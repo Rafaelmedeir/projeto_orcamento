@@ -24,7 +24,7 @@ export default function OrcamentoScreen() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.title}>Orçamento Fácil</Text>
+      <Text style={styles.title}>Orçamento do Serviço</Text>
       <TextInput style={styles.input} placeholder="Largura (metros)" keyboardType="numeric" value={largura} onChangeText={setLargura} />
       <TextInput style={styles.input} placeholder="Comprimento (metros)" keyboardType="numeric" value={comprimento} onChangeText={setComprimento} />
       <TextInput style={styles.input} placeholder="Preço por m² (R$)" keyboardType="numeric" value={precoM2} onChangeText={setPrecoM2} />

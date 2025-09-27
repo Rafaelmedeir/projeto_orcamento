@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projeto-agora-vai",
-    "slug": "projeto-agora-vai",
+    "name": "orcamento",
+    "slug": "orcamento",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -12,7 +12,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.rafaelmedeir.projetoagoravai"
+      "package": "com.rafaelmedeir.orcamento"
     },
     "extra": {
       "eas": {
