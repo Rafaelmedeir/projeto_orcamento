@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "orcamento",
-    "slug": "orcamento",
+    "name": "Orçamentos",
+    "slug": "orcamentos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/android-icon-foreground.png",
@@ -22,7 +22,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "acf95f9d-e72b-451a-b9ba-64a48957e6fb"
+        "projectId": "26bcc1eb-c2d3-40ef-93bd-08fb24921cfa"
       }
     }
   }
