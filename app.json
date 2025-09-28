@@ -19,6 +19,11 @@
         "backgroundColor": "#FFFFFF",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "acf95f9d-e72b-451a-b9ba-64a48957e6fb"
+      }
     }
   }
 }
